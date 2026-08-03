@@ -127,11 +127,11 @@ if (openEvidence) {
 
 }
 const evidencePhotos = [
-    "images/pabo1.jpg",
-    "images/pabo2.jpg",
-    "images/pabo3.jpg",
-    "images/pabo4.jpg",
-    "images/pabo5.jpg"
+    "pabo1.jpg",
+    "pabo2.jpg",
+    "pabo3.jpg",
+    "pabo4.jpg",
+    "pabo5.jpg"
 ];
 
 const evidenceCaptions = [
