@@ -143,17 +143,7 @@ const evidenceCaptions = [
 ];
 
 let currentPhoto = 0;
-const photoBox = document.getElementById("photoBox");
-const caption = document.getElementById("caption");
 
-if (photoBox && caption) {
-
-    photoBox.innerHTML =
-    `<img src="${evidencePhotos[0]}" width="280">`;
-
-    caption.innerHTML = evidenceCaptions[0];
-
-}
 
 
 const evidenceNext = document.getElementById("evidenceNext");
